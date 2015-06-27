@@ -1,9 +1,6 @@
 [submodule "src/fron-end/a-la-romana-ui"]
 	path = src/fron-end/a-la-romana-ui
 	url = https://github.com/Kalimaha/a-la-romana-ui.git
-[submodule "src/back-end/a-la-romana-services"]
-	path = src/back-end/a-la-romana-services
-	url = https://github.com/Kalimaha/a-la-romana-services.git
 [submodule "src/front-end/a-la-romana-ui"]
 	path = src/front-end/a-la-romana-ui
 	url = https://github.com/Kalimaha/a-la-romana-ui.git
